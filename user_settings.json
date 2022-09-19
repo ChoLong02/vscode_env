@@ -1,0 +1,4 @@
+// [설정] -> [json 검색] -> [json schemas -> settings.json에서 편집]에 아래코드 추가하고 저장
+"editor.tokenColorCustomizations": {
+        "comments": "#86E75F"
+    },
